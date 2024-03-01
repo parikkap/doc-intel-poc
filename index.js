@@ -4,7 +4,7 @@ const {
 } = require("@azure/ai-form-recognizer");
 const CliTable3 = require("cli-table3");
 
-const key = "47aea3b2d8364bffb2646d7467e5d982";
+const key = "XXX";
 const endpoint = "https://di-pettest.cognitiveservices.azure.com/";
 
 // Function to generate the table
